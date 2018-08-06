@@ -7,3 +7,5 @@ Show Check out -- files.
 switch to Dev branch.
 
 Creating a new branch is quick and simple.
+
+no ff(fast forward)

@@ -10,4 +10,6 @@ Creating a new branch is quick and simple.
 
 no ff(fast forward)
 
-add branch test then push
+add branch test then push. to change it.
+
+change a sentence (Line 13 ori:add branch test then push)

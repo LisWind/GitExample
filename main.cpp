@@ -7,4 +7,6 @@ int main()
 	std::cout << "This time do something new." << std::endl;
 	
 	std::cout << "~~~add something at origin~~~" << std::endl;
+
+	std::cout << " Remote add 'local use git stash'. " << std::endl;
 }

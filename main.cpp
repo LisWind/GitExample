@@ -9,4 +9,6 @@ int main()
 	std::cout << "~~~add something at origin~~~" << std::endl;
 
 	std::cout << " Remote add 'local use git stash'. " << std::endl;
+	
+	std::cout << "Test git stash" << std::endl;
 }
